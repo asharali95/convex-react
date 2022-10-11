@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/convex-react/static/css/main.0a88262c.css",
+    "main.js": "/convex-react/static/js/main.0e7f565e.js",
+    "static/js/787.efa01642.chunk.js": "/convex-react/static/js/787.efa01642.chunk.js",
+    "static/media/compete.png": "/convex-react/static/media/compete.6915d433f4034b6f5c69.png",
+    "static/media/ESAllianz-Regular.ttf": "/convex-react/static/media/ESAllianz-Regular.1ff9c170bc1f62c2ff5e.ttf",
+    "static/media/ESAllianz-Italic.ttf": "/convex-react/static/media/ESAllianz-Italic.79e47e65e6bcafeaf73c.ttf",
+    "static/media/ESAllianz-Bold.ttf": "/convex-react/static/media/ESAllianz-Bold.7a875bbcc5b5ca800f2b.ttf",
+    "static/media/joincell.png": "/convex-react/static/media/joincell.bc72453bffedbb46d960.png",
+    "static/media/ESKlarheitKurrent-Bold.ttf": "/convex-react/static/media/ESKlarheitKurrent-Bold.f6b923333f95a5b228ff.ttf",
+    "static/media/ESKlarheitKurrent-Extrabold.ttf": "/convex-react/static/media/ESKlarheitKurrent-Extrabold.ceae012ebf7f6ab7bebc.ttf",
+    "static/media/ESKlarheitKurrent-Semibold.ttf": "/convex-react/static/media/ESKlarheitKurrent-Semibold.fba0bc61bdb33f32dd48.ttf",
+    "static/media/revicons.eot": "/convex-react/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/convex-react/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/convex-react/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/brad_arrow.svg": "/convex-react/static/media/brad_arrow.f982491724dd28aa1778.svg",
+    "static/media/men.svg": "/convex-react/static/media/men.831fd6e190e49ffcb52f.svg",
+    "static/media/arrow_op.svg": "/convex-react/static/media/arrow_op.4b3ee5f1af10db018301.svg",
+    "index.html": "/convex-react/index.html",
+    "static/media/arrowraise.svg": "/convex-react/static/media/arrowraise.03a59e15609c1d2c87e2.svg",
+    "static/media/get_pitch.svg": "/convex-react/static/media/get_pitch.3dcef9903eb22b197059.svg",
+    "static/media/arrow57.svg": "/convex-react/static/media/arrow57.5d9fa440ddad5f72c876.svg",
+    "static/media/bg-pitchof.svg": "/convex-react/static/media/bg-pitchof.9fceada237a416d3b873.svg",
+    "static/media/arrow_teams.svg": "/convex-react/static/media/arrow_teams.ce658ca88b565b4b18f3.svg",
+    "static/media/start.svg": "/convex-react/static/media/start.daf4c205440305469532.svg",
+    "static/media/rule.svg": "/convex-react/static/media/rule.9e20e17554ca8aa858ca.svg",
+    "static/media/arrow-fill-right.svg": "/convex-react/static/media/arrow-fill-right.f4207aa8609bee533e88.svg",
+    "static/media/arrow-line-left.svg": "/convex-react/static/media/arrow-line-left.b8bb494743d6065ab278.svg",
+    "static/media/arrow-fill-left.svg": "/convex-react/static/media/arrow-fill-left.476417c26b2ccc577903.svg",
+    "static/media/types.svg": "/convex-react/static/media/types.bcffbb289c7a18926c14.svg",
+    "main.0a88262c.css.map": "/convex-react/static/css/main.0a88262c.css.map",
+    "main.0e7f565e.js.map": "/convex-react/static/js/main.0e7f565e.js.map",
+    "787.efa01642.chunk.js.map": "/convex-react/static/js/787.efa01642.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a88262c.css",
+    "static/js/main.0e7f565e.js"
+  ]
+}
