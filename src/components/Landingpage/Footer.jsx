@@ -9,7 +9,7 @@ import TextError from "../common/TextError";
 import { useSelector, useDispatch } from "react-redux";
 import { addNewsLatter } from "../../store/actions/authAction";
 import { HashLink as NavLink } from 'react-router-hash-link';
-
+import ReactGA from "react-ga4"
 export const Footer = () => {
   const { submitting } = useSelector((state) => state.form);
   const dispatch = useDispatch();
@@ -76,7 +76,13 @@ export const Footer = () => {
                 <a href={"mailto:hello@convrtx.com" }> <h5>hello@convrtx.com</h5> </a> 
               </div>
 
-              <div className="go_box">
+              <div className="go_box"  onClick={()=>{
+                ReactGA.event({
+                  category: "Contact",
+                  action: "click-to-call",
+                  label: "phonecall", // optional
+                });
+              }}>
                 <span>Phone</span>
                 <a href="tel:+18889797510"><h5>+1 (888) 979-7510</h5> </a> 
               </div>
