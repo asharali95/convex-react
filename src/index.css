@@ -1,0 +1,120 @@
+        @font-face {
+            font-family: Fullbodyfont;
+            src: url(./fonts/ESAllianz/ESAllianz-Regular.ttf);
+        }
+        
+        @font-face {
+            font-family: Fullbodyfont-Bold;
+            src: url(./fonts/ESAllianz/ESAllianz-Bold.ttf);
+        }
+        
+        @font-face {
+            font-family: Fullbodyfont-Italic;
+            src: url(./fonts/ESAllianz/ESAllianz-Italic.ttf);
+        }
+        
+        @font-face {
+            font-family: Title-Bold;
+            src: url(./fonts/ESKlarheitKurrent/ESKlarheitKurrent-Bold.ttf);
+        }
+        
+        @font-face {
+            font-family: Title-Semibold;
+            src: url(./fonts/ESKlarheitKurrent/ESKlarheitKurrent-Semibold.ttf);
+        }
+        
+        @font-face {
+            font-family: Title-ExtraBold;
+            src: url(./fonts/ESKlarheitKurrent/ESKlarheitKurrent-Extrabold.ttf);
+        }
+        
+        html {
+            overflow-x: hidden !important;
+            overflow-y: scroll !important;
+            scroll-behavior: smooth;
+        }
+        
+        body {
+            font-family: Fullbodyfont !important;
+            position: relative;
+        }
+        
+        a {
+            text-decoration: none !important;
+        }
+        
+        a:hover {
+            color: unset;
+        }
+        
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+        
+        code {
+            font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New", monospace;
+        }
+        
+        ul,
+        li,
+        ol {
+            list-style: none !important;
+            padding-left: 0px !important;
+        }
+        
+        .talk_btn {
+            background: #e18427;
+            border-radius: 12px;
+            font-family: Title-Semibold;
+            padding: 15px 30px;
+            border: none;
+            text-align: center;
+            color: #fff;
+            font-size: 14px;
+            font-weight: 500;
+            transition: all 0.3s ease-in-out;
+        }
+        
+        .talk_btn span {
+            padding-right: 6px;
+        }
+        
+        .talk_btn:hover {
+            background-color: #073d30;
+        }
+        
+        .red_btn {
+            background-color: transparent !important;
+            color: #073d30 !important;
+            border: 1px solid #073d30 !important;
+        }
+        
+        input:focus {
+            box-shadow: none !important;
+        }
+        
+        .err_red {
+            color: red;
+            font-size: 13px;
+        }
+        
+        .react-multi-carousel-list {
+            height: 600px;
+        }
+        
+        .custom_arrow a {
+            color: black !important;
+        }
+        
+        .pagination {
+            display: flex !important;
+            align-items: center !important;
+            justify-content: center !important;
+        }
+        
+        @media only screen and (max-width:575px) {
+            .ser_vi.mb5 {
+                margin-bottom: 0px !important;
+            }
+        }
