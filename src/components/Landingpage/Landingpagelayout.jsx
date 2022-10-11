@@ -13,7 +13,7 @@ import { connect } from "react-redux";
 import { getPartners } from "../../store/actions/partnershipAction";
 import { getHomePageData } from "../../store/actions/blogAction";
 import { MobileHeader } from "./Mobile/MobileHeader";
-
+import ReactGA from "react-ga4"
 const Landingpagelayout = ({
   getPartners,
   partnerships,
@@ -26,6 +26,7 @@ const Landingpagelayout = ({
   total_record,
 }) => {
   useEffect(() => {
+    ReactGA.send({ hitType: "pageview", page: window.location.pathname });
     getPartners(1);
   }, [getPartners]);
   useEffect(() => {
